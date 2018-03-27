@@ -1,4 +1,4 @@
-##PataTap Inspired Web App
+## PataTap Inspired Web App
 
 Fun little web app where all keys are mapped to a sound and animation.
 Each key plays a different sound.
